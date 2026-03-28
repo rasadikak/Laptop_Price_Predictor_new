@@ -34,20 +34,21 @@ A web application built with **Flask, HTML, CSS, and Jupyter Notebook** that pre
 
 ### 1️⃣ Clone the Repository
 
-git clone [https://github.com/rasadikak/laptop-price-predictor.git](https://github.com/rasadikak/laptop_price_predictor.git)
+git clone [https://github.com/rasadikak/Laptop_Price_Predictor_new.git](https://github.com/rasadikak/Laptop_Price_Predictor_new.git)
 
-cd website
+
 
 ---
 
 2️⃣ Install Dependencies
 
 Make sure you have Python 3.8+ installed. Then install the required packages
-pip install flask numpy
+pip install -r requirements.txt
 
 ---
 3️⃣ Run the Application
 
+cd website
 python app.py
 
 ---
@@ -59,22 +60,10 @@ Go to:
 
 ---
 
-📸 Screenshots
 
-![CAPTURE](https://github.com/user-attachments/assets/394e1f43-cd6b-4147-9ac4-d38e6d674cb7)
+📌 Live demo:
 
-
-
-<img width="614" height="921" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/e1c24fe5-aa5d-4f3c-93bf-16398fc533ff" />
-
-
-
-
----
-
-📌 Future Improvements
-
-Deploy app on Heroku / Render / AWS.
+[https://rasadikak.pythonanywhere.com/](https://rasadikak.pythonanywhere.com/)
 
 ---
 ## ⚠️ Disclaimer
